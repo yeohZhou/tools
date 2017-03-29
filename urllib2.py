@@ -1,4 +1,3 @@
-import requests
 import urllib2
 import sys
 import threading
